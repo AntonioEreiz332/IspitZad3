@@ -1,0 +1,7 @@
+C:\Users\korisnik\source\repos\IspitZad3-AE\IspitZad3-AE\bin\Debug\IspitZad3-AE.exe.config
+C:\Users\korisnik\source\repos\IspitZad3-AE\IspitZad3-AE\bin\Debug\IspitZad3-AE.exe
+C:\Users\korisnik\source\repos\IspitZad3-AE\IspitZad3-AE\bin\Debug\IspitZad3-AE.pdb
+C:\Users\korisnik\source\repos\IspitZad3-AE\IspitZad3-AE\obj\Debug\IspitZad3-AE.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\IspitZad3-AE\IspitZad3-AE\obj\Debug\IspitZad3-AE.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\IspitZad3-AE\IspitZad3-AE\obj\Debug\IspitZad3-AE.exe
+C:\Users\korisnik\source\repos\IspitZad3-AE\IspitZad3-AE\obj\Debug\IspitZad3-AE.pdb
